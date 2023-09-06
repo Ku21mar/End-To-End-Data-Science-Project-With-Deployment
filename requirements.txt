@@ -1,0 +1,9 @@
+# by defualt pandas\n  last me \n (hiden hota hian hypen n ) hota h jisko hum baaad me replace kreke empty se krte hainn
+pandas
+numpy
+# abhi jo setup fle jo create kiye hain es ab install karna hai
+#  @ toh installl krne keliye humare passs command hota hai 
+# [ -e . ] hum log add kre es command ko ane reuirement.txt file ke andar 
+# aone setup file ko install krne keliye 
+
+-e .
